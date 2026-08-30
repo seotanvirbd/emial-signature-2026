@@ -4,7 +4,7 @@
 
 Built for **personal branding, cold email marketing and lead generation** — because your signature is the one marketing asset that goes out with *every single email you send*.
 
-![Professional HTML Email Signature Preview](preview.png)
+![Professional HTML Email Signature Preview](email_signature.png)
 
 [![Clients](https://img.shields.io/badge/Tested-Gmail%20%C2%B7%20Outlook%20%C2%B7%20Apple%20Mail-blue)](#)
 [![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Ready-black)](#)
