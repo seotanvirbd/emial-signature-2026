@@ -1,10 +1,10 @@
-# Professional HTML Email Signature Template — Gmail · Outlook · Apple Mail Ready (Dark Mode + Mobile Responsive)
+# Professional HTML Email Signature — Gmail · Outlook · Apple Mail Ready (Dark Mode + Mobile Responsive)
 
-> A **bulletproof, hand-coded HTML email signature** for freelancers, consultants, agencies and job seekers. Renders perfectly across **20+ email clients**, on **every device** (iPhone, Android, Windows, Mac), in **both light & dark mode** — no frameworks, no external CSS, 100% table-based inline HTML.
+> A **bulletproof, hand-coded professional HTML email signature** for freelancers, consultants, agencies and sales teams. Renders perfectly across **20+ email clients**, on **every device** (iPhone, Android, Windows, Mac), in **both light & dark mode** — no frameworks, no external CSS, 100% table-based inline HTML.
 
-Built for **personal branding, cold email marketing and lead generation** — because your signature is the one marketing asset that goes out with *every single email you send*.
+Your signature is the one marketing asset that goes out with *every single email you send* — built right, it becomes a silent salesperson for **personal branding, cold email marketing and lead generation**.
 
-![Professional HTML Email Signature Preview](email_signature.png)
+![Professional HTML Email Signature — light & dark mode](https://raw.githubusercontent.com/seotanvirbd/emial-signature-2026/main/email_signature.png)
 
 [![Clients](https://img.shields.io/badge/Tested-Gmail%20%C2%B7%20Outlook%20%C2%B7%20Apple%20Mail-blue)](#)
 [![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Ready-black)](#)
@@ -18,16 +18,15 @@ Built for **personal branding, cold email marketing and lead generation** — be
 
 | File | Purpose |
 |---|---|
-| [`signature-full.html`](./signature-full.html) | **Type B** — Full branded signature (photo, social buttons, CTA button). Use for warm emails, replies, proposals & networking. |
-| [`signature-text-only.html`](./signature-text-only.html) | **Type A** — Lightweight text-only signature. Use for **bulk cold email campaigns** to protect deliverability & sender reputation. |
-| [`preview.png`](./preview.png) | Light & dark mode screenshots. |
+| [`signature.html`](./signature.html) | The professional signature — photo, social buttons, CTA button, WhatsApp link. Ready to paste into Gmail / Outlook / Apple Mail. |
+| [`email_signature.png`](./email_signature.png) | Preview screenshots (light & dark mode). |
 
 ---
 
 ## ✨ Features
 
 - 📐 **≤ 450px total width** — fits Gmail's signature pane and narrow mobile viewports perfectly
-- 🖼️ **Brand-ring circular profile photo** — instant human trust
+- 🖼️ **Brand-ring circular profile photo** — instant human trust in every email
 - 🔵 **Circular social buttons** (LinkedIn · GitHub · Upwork) — visible in dark mode, solid in Outlook
 - 📅 **Bulletproof CTA button** ("Book a Free Call") — table-based, renders in every client
 - 💬 **WhatsApp deep link** (`wa.me`) — international clients tap and chat instantly
@@ -55,7 +54,7 @@ Built for **personal branding, cold email marketing and lead generation** — be
 
 ## 🧠 Under the Hood — Why It Renders Everywhere
 
-Most "email signature generators" output `div` + flexbox HTML that **breaks in Outlook** (which renders email with the *Word engine*) and **vanishes in dark mode**. This template uses professional email-development techniques instead:
+Most "email signature generators" output `div` + flexbox HTML that **breaks in Outlook** (which renders email with the *Word engine*) and **vanishes in dark mode**. This signature uses professional email-development techniques instead:
 
 - **`<table>` layout + 100% inline CSS** — the only layout method trusted by all email clients
 - **`bgcolor` attributes on `<td>`** for buttons & icon chips — survives Outlook's CSS stripping
@@ -64,7 +63,6 @@ Most "email signature generators" output `div` + flexbox HTML that **breaks in O
 - **Bulletproof button pattern** — `td bgcolor` + padded `<a>` + `white-space: nowrap`
 - **Colored icon chips on solid backgrounds** — icons stay visible when clients force dark backgrounds
 - **Mid-grey text palette (`#222–#666`)** — readable on white *and* auto-inverted dark themes
-- **Native emoji for micro-icons** — zero extra HTTP requests, perfect in both themes
 
 ---
 
@@ -74,7 +72,7 @@ Most "email signature generators" output `div` + flexbox HTML that **breaks in O
 
 **Outlook (Web):** Settings → *Email signature* → paste → Save.
 
-**Outlook (Desktop):** New Email → Signature → paste rendered signature from a self-sent test email.
+**Outlook (Desktop):** New Email → Signature → paste from a self-sent test email.
 
 **Apple Mail:** Mail → Settings → *Signatures* → paste from a self-sent test email.
 
@@ -82,14 +80,13 @@ Most "email signature generators" output `div` + flexbox HTML that **breaks in O
 
 ---
 
-## 🎯 Using Signatures for Cold Email & Lead Gen
+## 🎯 How a Professional Signature Wins You Clients
 
-Your signature is a **silent salesperson** — every reply is an impression. My rules:
-
-1. **Bulk cold campaigns (100+/day):** use the **text-only Type A** — images at scale raise spam risk.
-2. **Personalized outreach & warm emails:** use the **full Type B** — photo + WhatsApp link = more replies.
-3. **One primary CTA only** (book a call). Everything else is proof (LinkedIn, GitHub, Upwork).
-4. **UTM everything** — double down on the links that actually get clicked.
+1. **Every reply is an impression.** Photo + name + title = personal brand repetition, email after email.
+2. **Trust in 1 second.** LinkedIn, GitHub and Upwork buttons let prospects verify you with one tap.
+3. **One primary CTA.** The "Book a Free Call" button turns casual replies into booked meetings.
+4. **Frictionless contact.** WhatsApp deep link means overseas clients can chat without saving your number.
+5. **Measure everything.** UTM tags show you which link actually produces leads — then you double down.
 
 ---
 
@@ -97,11 +94,6 @@ Your signature is a **silent salesperson** — every reply is an impression. My 
 
 I design & hand-code premium signatures for personal brands, agencies and sales teams.
 
-| Package | Includes | Price |
-|---|---|---|
-| **Starter** | Text-only professional signature, 1 revision | $19 |
-| **Professional** | Full branded signature (photo, icons, CTA, dark-mode safe) + install support | $39 |
-| **Brand Kit** | Custom design matching your brand colors/logo + A/B versions + team rollout | $79 |
 
  **[Book a free call](https://calendly.com/seotanvirbd/30min)** · 💬 **[WhatsApp me](https://wa.me/8801687373830)** · ⭐ **[Hire on Upwork](https://www.upwork.com/freelancers/~010fc1db7bfe386976)** · 🌐 **[seotanvirbd.com](https://seotanvirbd.com/)**
 
